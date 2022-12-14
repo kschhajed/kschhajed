@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kshitij Chhajed
-- 👀 I’m interested in software developement, machine learning and computer vision related projects.
-- 🌱 I’m currently learning Blockchain application developement and exploring Deep Learning models.
+- 👀 I’m interested in software developement, distributed systems, machine learning and computer vision related projects.
+- 🌱 I’m currently learning Blockchain application development and exploring Deep Learning models.
+- 👨‍💼 I'm actively looking for full-time opportunities starting February/March 2023.
 - 📫 I can be reached at kchhajed@buffalo.edu.
 
 <!---
