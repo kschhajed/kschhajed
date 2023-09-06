@@ -7,7 +7,6 @@
     + Machine Learning Engineer
     + Data Scientist
     + Data Engineer
-    + SAP (MM/SD/MDG) Consultant
     + Application Programmer
 - 📫 I can be reached at kchhajed@buffalo.edu.
 
