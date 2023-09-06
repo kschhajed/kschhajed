@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kshitij Chhajed
 - 👀 I’m interested in software development, distributed systems, machine learning and computer vision related projects.
-- 🌱 I’m currently learning Blockchain application development and exploring Deep Learning models.
+- 🌱 I’m currently learning C# and ASP.NET as well as Airtable.
 - 👨‍💼 I'm actively looking for full-time opportunities as any of the below:
     + Software Development Engineer
     + Software Engineer
