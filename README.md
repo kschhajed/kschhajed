@@ -8,7 +8,7 @@
     + Data Scientist
     + Data Engineer
     + Application Programmer
-- 📫 I can be reached at kchhajed@buffalo.edu.
+- 📫 I can be reached at k.s.chhajed@gmail.com.
 
 <!---
 kschhajed/kschhajed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
